@@ -38,6 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mikael-Cavalcanti/Mikael-Cavalcanti/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Mikael-Cavalcanti/Mikael-Cavalcanti/blob/output/github-contribution-grid-snake.svg)
 
 ###
