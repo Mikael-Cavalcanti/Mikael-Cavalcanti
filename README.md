@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Mikael Cavalcanti</h1>
-  <img alt="Visualizações do perfil" src="https://komarev.com/ghpvc/?username=Mikael-Cavalcanti&color=bd93f9&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+perfil"  />
+  <img alt="Visualizações do perfil" src="https://komarev.com/ghpvc/?username=mikael-cavalcanti&color=bd93f9&style=flat-square&label=Visitas%20ao%20perfil"  />
 </div>
 
 ## Estatísticas
